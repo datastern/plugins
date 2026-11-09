@@ -24,4 +24,6 @@ Each plugin holds only instructions and the address of the DataStern server. It 
 
 ## Licence
 
-MIT. DataStern provides source texts to help you, and you make the decision. Check the original text and date before relying on an answer. This isn't legal advice.
+The files in this repository are licensed under the [Apache License 2.0](LICENSE), copyright 2026 Mykola Yevstihnieiev (DataStern). The licence covers these files only. It grants no right to use the DataStern name or logo, and no access to the DataStern service, which needs a DataStern account and is provided under its [terms](https://www.datastern.eu/terms). The law texts DataStern serves come from the Austrian Legal Information System (RIS) under CC BY 4.0.
+
+DataStern provides source texts to help you, and you make the decision. Check the original text and date before relying on an answer. This isn't legal advice.

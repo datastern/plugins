@@ -8,6 +8,7 @@
     "url": "https://www.datastern.eu"
   },
   "homepage": "https://www.datastern.eu",
+  "license": "Apache-2.0",
   "suggestedPrompts": [
     "What is the statutory deadline for an appeal under Austrian administrative law?",
     "What are the formal requirements for a written contract under Austrian civil law?",
