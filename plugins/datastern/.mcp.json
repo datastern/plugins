@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "datastern": {
+      "type": "http",
+      "url": "https://www.datastern.eu/mcp"
+    }
+  }
+}

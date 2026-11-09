@@ -1,0 +1,9 @@
+{
+  "name": "datastern",
+  "displayName": "DataStern",
+  "version": "0.1.2",
+  "description": "Answer legal questions from official law texts: the wording in force on a given day, its history and a link to the original.",
+  "author": { "name": "DataStern", "url": "https://www.datastern.eu" },
+  "homepage": "https://www.datastern.eu",
+  "license": "MIT"
+}
