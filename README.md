@@ -4,7 +4,8 @@ Plugins that connect AI assistants to [DataStern](https://www.datastern.eu): off
 
 | Plugin | For | Folder |
 | --- | --- | --- |
-| DataStern | Claude (claude.ai, Claude Desktop, Claude Code) | [plugins/datastern](plugins/datastern) |
+| DataStern | Claude (claude.ai, Claude Desktop, Claude Code) | [plugins/claude/datastern](plugins/claude/datastern) |
+| DataStern | Antigravity | [plugins/antigravity/datastern](plugins/antigravity/datastern) |
 
 ## Install in Claude Code
 
@@ -14,6 +15,10 @@ Plugins that connect AI assistants to [DataStern](https://www.datastern.eu): off
 ```
 
 On claude.ai and Claude Desktop, install DataStern from the plugin directory once it is listed there.
+
+## Install in Antigravity
+
+Add the folder [plugins/antigravity/datastern](plugins/antigravity/datastern) as a plugin in Antigravity. It connects to `https://www.datastern.eu/mcp` and asks you to sign in with your DataStern account.
 
 Each plugin holds only instructions and the address of the DataStern server. It runs no code on your computer. See the plugin's README for what it sends and how to revoke access.
 

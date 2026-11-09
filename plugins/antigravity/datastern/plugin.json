@@ -1,0 +1,16 @@
+{
+  "name": "datastern",
+  "displayName": "DataStern Legal Intelligence",
+  "description": "Official law in force from verified government sources (RIS Bundesrecht). Answers legal questions with exact paragraphs, citations, and official links.",
+  "version": "0.1.1",
+  "author": {
+    "name": "DataStern",
+    "url": "https://www.datastern.eu"
+  },
+  "homepage": "https://www.datastern.eu",
+  "suggestedPrompts": [
+    "What is the statutory deadline for an appeal under Austrian administrative law?",
+    "What are the formal requirements for a written contract under Austrian civil law?",
+    "Find the current provisions for home office tax deductions in Austria"
+  ]
+}

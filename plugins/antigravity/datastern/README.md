@@ -1,0 +1,31 @@
+# DataStern for Antigravity
+
+Understand a legal question with an Antigravity agent, using the official text. DataStern gives the agent the wording of a law as it stood on the day that matters, its history and a link to the original, so you can check each answer yourself. It currently holds Austrian federal law (RIS Bundesrecht).
+
+## Use it
+
+Install the plugin, sign in with your DataStern account when the agent first connects, and switch on a country in your [DataStern account](https://www.datastern.eu/kb). Then ask in your own words, for example:
+
+- "What is the statutory deadline for an appeal under Austrian administrative law?"
+- "What changed in § 4 EStG since 2020?"
+
+The plugin has two skills:
+
+- **legal-question** finds the provision in force on the right day and answers with the provision, its dates and a link.
+- **law-changes** shows the versions of a provision and what changed between two dates.
+
+You need a DataStern account. The plugin only reads: it can't change anything in your account or anywhere else.
+
+## Data
+
+The plugin contains instructions for the agent and the address of the DataStern server, `https://www.datastern.eu/mcp`. It runs no code on your computer.
+
+When the agent uses DataStern, it sends your search words, or the act, provision and date, to that server. DataStern records each call for limits and usage, as described in its [privacy policy](https://www.datastern.eu/privacy). Sign-in is through your DataStern account, and you can revoke access there at any time.
+
+## Limits
+
+DataStern provides source texts to help you, and you make the decision. Check the original text and date before relying on an answer. This isn't legal advice.
+
+## Support
+
+See [datastern.eu](https://www.datastern.eu), [terms](https://www.datastern.eu/terms) and [privacy](https://www.datastern.eu/privacy).
