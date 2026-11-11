@@ -4,7 +4,7 @@ Understand a legal question with an Antigravity agent, using the official text. 
 
 ## Use it
 
-Install the plugin, sign in with your DataStern account when the agent first connects, and switch on a country in your [DataStern account](https://www.datastern.eu/kb). Then ask in your own words, for example:
+Install the plugin, sign in with your DataStern account when the agent first connects, and connect a knowledge base in [DataStern](https://www.datastern.eu/explore). Then ask in your own words, for example:
 
 - "What is the statutory deadline for an appeal under Austrian administrative law?"
 - "What changed in § 4 EStG since 2020?"

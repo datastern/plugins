@@ -5,7 +5,7 @@ description: Show how a provision of a law changed over time, from official text
 
 Use the versions DataStern returns, not your memory of the law.
 
-1. Call `list_knowledge_bases` to get the `kb` address. If none is listed, tell the user they can switch a country on at https://www.datastern.eu/kb if it is available. If the user names no provision, find it with `search_knowledge` first.
+1. Call `list_knowledge_bases` to get the `kb` address. If none is listed, tell the user they can connect one at https://www.datastern.eu/explore if it is available. If the user names no provision, find it with `search_knowledge` first.
 2. Call `get_versions` with `act` and `path` to see every version, the days it was in force and the publication that changed it.
 3. To show a change, call `compare_versions` with the two days. Removed words are marked `[-…-]` and added words `{+…+}`.
 4. Answer with:

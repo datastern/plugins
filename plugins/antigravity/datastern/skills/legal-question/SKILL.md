@@ -7,8 +7,8 @@ Answer from the texts DataStern returns, not from memory. Look in DataStern befo
 
 ## 1. Find the text
 
-1. Call `list_knowledge_bases` to see which legal sources the user has switched on. Each has an address such as `owner/name`, which the other tools take as `kb`.
-2. If none is listed, or none covers the country in question, say so. Tell the user they can switch a country on at https://www.datastern.eu/kb if it is available. Don't answer from memory instead.
+1. Call `list_knowledge_bases` to see which knowledge bases the user has connected. Each has an address such as `owner/name`, which the other tools take as `kb`.
+2. If none is listed, or none covers the jurisdiction in question, say so. Tell the user they can connect one at https://www.datastern.eu/explore if it is available. Don't answer from memory instead.
 3. If the user names a provision (for example § 4 EStG), call `get_provision` with `act`, `path` and, when a date matters, `as_of`.
 4. Otherwise call `search_knowledge` with a short query in the language of the law (German for Austrian law), using the words the law would use, also when the user writes in another language. If the results don't hold what you need, search again with other terms before you answer or turn to the web. Then call `get_provision` for each provision you plan to rely on, so you read its whole text and not only a passage.
 

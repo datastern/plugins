@@ -4,7 +4,7 @@ Understand a legal question with Claude, using the official text. DataStern give
 
 ## Use it
 
-Connect DataStern from the plugin's **Connectors** tab and sign in. Switch on a country in your [DataStern account](https://www.datastern.eu/kb). Then ask in your own words, for example:
+Connect DataStern from the plugin's **Connectors** tab and sign in. Connect a knowledge base in [DataStern](https://www.datastern.eu/explore). Then ask in your own words, for example:
 
 - "How much notice does an employer have to give under Austrian law? Quote the provision and link to the original."
 - "What changed in § 4 EStG since 2020?"
