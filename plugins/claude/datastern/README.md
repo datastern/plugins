@@ -1,18 +1,15 @@
 # DataStern for Claude
 
-Understand a legal question with Claude, using the official text. DataStern gives Claude the wording of a law as it stood on the day that matters, its history and a link to the original, so you can check each answer yourself.
+Understand a legal question with Claude, using the official text. DataStern gives Claude the wording of a law in force on the day that matters and a link to the original, so you can check each answer yourself.
 
 ## Use it
 
 Connect DataStern from the plugin's **Connectors** tab and sign in. Connect a knowledge base in [DataStern](https://www.datastern.eu/explore). Then ask in your own words, for example:
 
 - "How much notice does an employer have to give under Austrian law? Quote the provision and link to the original."
-- "What changed in § 4 EStG since 2020?"
+- "How many days of paid holiday does an employee in Austria get per year?"
 
-The plugin has two skills:
-
-- **legal-question** finds the provision in force on the right day and answers with quotes, dates and links.
-- **law-changes** shows the versions of a provision and what changed between two dates.
+The plugin has one skill, **legal-question**: it finds the provision in force on the right day and answers briefly, with a short quote, the date and a link to the original.
 
 You need a DataStern account. The plugin only reads: it can't change anything in your account or anywhere else.
 

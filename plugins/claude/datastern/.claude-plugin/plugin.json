@@ -1,8 +1,8 @@
 {
   "name": "datastern",
   "displayName": "DataStern",
-  "version": "0.1.3",
-  "description": "Answer legal questions from official law texts: the wording in force on a given day, its history and a link to the original.",
+  "version": "0.2.0",
+  "description": "Answer legal questions from official law texts: the wording in force on the day that matters, with a link to the original.",
   "author": {
     "name": "DataStern",
     "url": "https://www.datastern.eu"

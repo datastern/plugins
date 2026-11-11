@@ -2,7 +2,7 @@
   "name": "datastern",
   "displayName": "DataStern Legal Intelligence",
   "description": "Official law in force from verified government sources (RIS Bundesrecht). Answers legal questions with exact paragraphs, citations, and official links.",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "author": {
     "name": "DataStern",
     "url": "https://www.datastern.eu"

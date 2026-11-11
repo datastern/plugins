@@ -1,6 +1,6 @@
 # DataStern plugins
 
-Plugins that connect AI assistants to [DataStern](https://www.datastern.eu): official law texts with the wording in force on a given day, its history and a link to the original.
+Plugins that connect AI assistants to [DataStern](https://www.datastern.eu): official law texts with the wording in force on the day that matters and a link to the original.
 
 | Plugin | For | Folder |
 | --- | --- | --- |

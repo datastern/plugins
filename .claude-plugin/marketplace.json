@@ -5,13 +5,13 @@
     "url": "https://www.datastern.eu"
   },
   "metadata": {
-    "description": "DataStern plugins: official law texts for AI assistants, with the wording in force on a given day, its history and a link to the original."
+    "description": "DataStern plugins: official law texts for AI assistants, with the wording in force on the day that matters and a link to the original."
   },
   "plugins": [
     {
       "name": "datastern",
       "source": "./plugins/claude/datastern",
-      "description": "Answer legal questions from official law texts: the wording in force on a given day, its history and a link to the original."
+      "description": "Answer legal questions from official law texts: the wording in force on the day that matters, with a link to the original."
     }
   ]
 }
