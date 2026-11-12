@@ -1,7 +1,7 @@
 {
   "name": "datastern",
   "displayName": "DataStern",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Answer legal questions from official law texts: the wording in force on the day that matters, with a link to the original.",
   "author": {
     "name": "DataStern",
@@ -10,7 +10,7 @@
   "homepage": "https://www.datastern.eu",
   "repository": "https://github.com/datastern/plugins",
   "documentationUrl": "https://www.datastern.eu/connect/claude",
-  "supportUrl": "mailto:support@datastern.eu",
+  "supportUrl": "https://www.datastern.eu/connect/claude#support",
   "termsOfServiceUrl": "https://www.datastern.eu/terms",
   "license": "Apache-2.0",
   "icon": ".claude-plugin/icon.png",
